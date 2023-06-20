@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nahum77
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in machine learning and artificial intelligence
+- 🌱 I’m currently learning data science and data analysis
 - 
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me abelkagee@gmail.com
